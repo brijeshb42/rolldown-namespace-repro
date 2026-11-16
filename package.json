@@ -1,0 +1,11 @@
+{
+  "name": "rolldown-namespace-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node build.mjs"
+  },
+  "dependencies": {
+    "rolldown": "1.3.2"
+  }
+}
